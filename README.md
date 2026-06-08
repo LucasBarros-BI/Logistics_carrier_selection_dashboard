@@ -40,6 +40,10 @@ This dashboard helps logistics teams evaluate carrier performance and optimize t
 
 ![Geographic Analysis](Images/Geographic_Analysis.png)
 
+## Insights Tooltips in Geographic Analysis
+
+![Geographic Analysis](Images/Tooltips.png)
+
 ## Insights
 
 - OnTrac achieved the highest performance score.
