@@ -42,6 +42,6 @@ This dashboard helps logistics teams evaluate carrier performance and optimize t
 
 ## Insights
 
-- DHL achieved the highest performance score.
+- OnTrac achieved the highest performance score.
 - Longer transit times were not always associated with lower costs.
 - Certain destinations showed significantly higher transportation costs.
