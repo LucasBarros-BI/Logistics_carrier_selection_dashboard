@@ -26,19 +26,19 @@ This dashboard helps logistics teams evaluate carrier performance and optimize t
 
 ### Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/Executive_Summary.png)
 
 ### Carrier Analysis
 
-![Carrier Analysis](images/carrier_analysis.png)
+![Carrier Analysis](images/Carrier_Analysis.png)
 
 ### Costs Analysis
 
-![Costs Analysis](images/costs_analysis.png)
+![Costs Analysis](images/Costs_Analysis.png)
 
 ### Geographic Analysis
 
-![Geographic Analysis](images/geographic_analysis.png)
+![Geographic Analysis](images/Geographic_Analysis.png)
 
 ## Insights
 
