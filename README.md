@@ -1,33 +1,47 @@
 # Logistics_carrier_selection_dashboard
 
-Overview
+## Business Problem
 
-This project was developed to support carrier selection decisions by analyzing transportation performance across multiple destinations in the United States.
+Choosing the best carrier requires balancing cost, transit time and reliability.
 
-The dashboard combines operational and financial metrics to evaluate carriers based on reliability, transit time, freight costs, and overall performance. The goal is to provide a data-driven approach for selecting the most suitable transportation provider for each shipping scenario.
+This dashboard helps logistics teams evaluate carrier performance and optimize transportation decisions.
 
-Business Problem
-Transportation teams often need to balance cost, delivery speed, and service reliability when choosing a carrier. Without a structured analysis, decisions may rely on intuition rather than data.
+## KPIs
 
-This dashboard was created to answer questions such as:
-Which carrier delivers shipments more reliably?
-Which carrier offers the best balance between cost and transit time?
-How do freight costs behave across different distances and shipment weights?
-Which destinations generate the highest transportation costs?
-Which carrier achieves the highest overall performance score?
+- Average Transit Time
+- Freight Cost vs Distance
+- Carrier Reliability
+- Freight Cost vs Shipment Weight
+- Carrier Performance Score
+- Geographic Shipment Analysis
+- Transit Time vs Freight Cost
 
-Tools Used
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
+## Tools Used
 
-Key Metrics
-Average Transit Time by Carrier
-Freight Cost vs Distance Analysis
-Carrier Reliability Analysis
-Freight Cost vs Shipment Weight
-Carrier Performance Score
-Geographic Shipment Analysis
-Transit Time vs Freight Cost
+- Power BI
+- Power Query
+- DAX
+
+## Dashboard Pages
+
+### Executive Summary
+
+![Executive Summary](images/executive_summary.png)
+
+### Carrier Analysis
+
+![Carrier Analysis](images/carrier_analysis.png)
+
+### Costs Analysis
+
+![Costs Analysis](images/costs_analysis.png)
+
+### Geographic Analysis
+
+![Geographic Analysis](images/geographic_analysis.png)
+
+## Insights
+
+- DHL achieved the highest performance score.
+- Longer transit times were not always associated with lower costs.
+- Certain destinations showed significantly higher transportation costs.
